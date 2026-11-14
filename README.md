@@ -1,6 +1,6 @@
-# NamBeDe — Sprint 1 — Tùng (Thành viên 2)
+# NamBeDe — Sprint 1  (Thành viên 2)
 
-Nhánh `sprint-1-tung` chỉ chứa phần việc Tuần 6 + Tuần 7 của Tùng cùng các phụ thuộc chung cần để chạy một mình. Bản ghép đủ ba thành viên nằm ở nhánh `sprint-1`.
+Nhánh `sprint-1` chỉ chứa phần việc Tuần 6 + Tuần 7 của Tùng cùng các phụ thuộc chung cần để chạy một mình. Bản ghép đủ ba thành viên nằm ở nhánh `sprint-1`.
 
 Kiến trúc: React → FastAPI Gateway → Auth / Class / Exercise (Spring Boot) và Learning (FastAPI) → PostgreSQL (mỗi service một database). Exercise Service gọi Class Service (lớp của giảng viên) và Learning Service (đọc câu hỏi để sao chép) bằng REST.
 
